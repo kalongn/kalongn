@@ -15,6 +15,7 @@ Nonetheless, I hope you have a great day :)
 ### Currently working on:  🔭
 - [Typing Test Website for Cantonese](https://github.com/kalongn/Typewriter-Jyutping)
 ### Currently Learning: 🌱
+- Front End Development Libraries (Bootstrap, JQuery, SASS, React.js)
 - Haskell
 - C/C++
 - Firebase
