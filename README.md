@@ -18,4 +18,4 @@ Nonetheless, I hope you have a great day :)
 - Front End Development Libraries (Bootstrap, JQuery, SASS, React.js)
 - Haskell
 - C/C++
-- Firebase
+- AzureCloud
