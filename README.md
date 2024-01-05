@@ -62,7 +62,7 @@ Nonetheless, I hope you have a great day :)
 ---
 
 ### Currently working on:  🔭
-- [Typing Test Website for Cantonese](https://github.com/kalongn/Typewriter-Jyutping)
+- [LeetCode Practices](https://github.com/kalongn/LeetCode_Solution)
 ### Currently Learning: 🌱
 - Lua
 - C/C++
