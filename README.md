@@ -15,6 +15,9 @@ Nonetheless, I hope you have a great day :)
     <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/> 
     </a>
+    <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> 
+    </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
