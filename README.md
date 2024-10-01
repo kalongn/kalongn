@@ -2,7 +2,7 @@
 
 I am a second-year Computer Science major enrolled at Stony Brook University. I am actively seeking fresh prospects and avenues for growth within my field.
 
-If you are interested in working with me or having me on your team. Here is my [portfolio](https://kalongn.github.io/Portfolio-Website/) and feel free to shoot me an [email](mailto:djklsslk@gmail.com).
+If you are interested in working with me or having me on your team. Here is my [portfolio](https://kalongn.github.io/Portfolio-Website/) and feel free to shoot me an [email](mailto:kalongngai.kln@gmail.com).
 
 Nonetheless, I hope you have a great day :)
 
