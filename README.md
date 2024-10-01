@@ -1,6 +1,6 @@
 # Hello there, I am Ka Long 👋
 
-I am a second-year Computer Science major enrolled at Stony Brook University. I am actively seeking fresh prospects and avenues for growth within my field.
+I am a third-year Computer Science major enrolled at Stony Brook University. I am actively seeking fresh prospects and avenues for growth within my field.
 
 If you are interested in working with me or having me on your team. Here is my [portfolio](https://kalongn.github.io/Portfolio-Website/) and feel free to shoot me an [email](mailto:kalongngai.kln@gmail.com).
 
@@ -14,6 +14,9 @@ Nonetheless, I hope you have a great day :)
     </a>
     <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/> 
+    </a>
+    <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> 
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
